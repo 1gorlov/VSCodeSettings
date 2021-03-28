@@ -32,5 +32,14 @@
                 }
             }
         ]
-    }
+    },
+    "breadcrumbs.enabled": false,
+    "editor.lineHeight": 24,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "phase",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark"
 }
